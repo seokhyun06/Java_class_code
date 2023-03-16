@@ -3,6 +3,7 @@
 # 1. 클래스만 사용
 - Accounting클래스에서 더블형 변수 공급가액(valueOfSupply), 부가세율(vatRate)를 선언한다.
 - getVAT(), getTotal() 메서드를 선언한다.
+
 ![image](https://user-images.githubusercontent.com/122009563/225314694-fb836500-5d7a-41c2-a498-21fedc3a108d.png)
 
 - 번거롭고 버그가 걸릴 확률이 높아진다.
